@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FitStore 💪 — Productos</title>
+  <link rel="stylesheet" href="fitstore.css">
+</head>
+<body>
+
+  <header>
+    <h1>FitStore 💪</h1>
+    <p>Los mejores suplementos de proteína</p>
+  </header>
+
+  <nav>
+    <a href="inicio.html">Inicio</a>
+    <a href="index.html" class="active">Productos</a>
+    <a href="contacto.html">Contacto</a>
+  </nav>
+
+  <div class="contenido">
+    <h2>Nuestros Productos</h2>
+
+    <div class="producto">
+      <img src="53.avif" alt="Whey Protein">
+      <h3>Whey Protein Chocolate</h3>
+      <p>Proteína de suero de leche con sabor a chocolate. Contiene 25g de proteína por porción.</p>
+      <p class="precio">$35.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+    <div class="producto">
+      <img src="37.avif" alt="Proteína Vainilla">
+      <h3>Whey Protein Vainilla</h3>
+      <p>Proteína con sabor a vainilla. Ideal para después del entrenamiento.</p>
+      <p class="precio">$35.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+    <div class="producto">
+      <img src="vegan.png" alt="Proteína Vegana">
+      <h3>Proteína Vegana</h3>
+      <p>Hecha con proteína de guisante. 100% vegana y sin lactosa.</p>
+      <p class="precio">$39.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+    <div class="producto">
+      <img src="50.avif" alt="Proteína Whey Isolada">
+      <h3>Proteína Whey Isolada</h3>
+      <p>Proteína aislada de rápida absorción ideal para después del entrenamiento.</p>
+      <p class="precio">$44.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+    <div class="producto">
+      <img src="po.avif" alt="Proteína Whey Gold">
+      <h3>Proteína Whey Gold</h3>
+      <p>Proteína de suero de alta calidad para ganar masa muscular.</p>
+      <p class="precio">$49.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+    <div class="producto">
+      <img src="39.avif" alt="Creatina Monohidratada">
+      <h3>Creatina Monohidratada</h3>
+      <p>Aumenta la fuerza, energía y rendimiento en el entrenamiento.</p>
+      <p class="precio">$29.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+    <div class="producto">
+      <img src="57.avif" alt="Mass Gainer Pro">
+      <h3>Mass Gainer Pro</h3>
+      <p>Suplemento ideal para subir de peso y aumentar masa muscular.</p>
+      <p class="precio">$54.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+    <div class="producto">
+      <img src="ultra.png" alt="Creatina Ultra Power">
+      <h3>Creatina Ultra Power</h3>
+      <p>Creatina pura que mejora la resistencia y recuperación muscular.</p>
+      <p class="precio">$34.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+    <div class="producto">
+      <img src="max.jpg" alt="Creatina Pro Max">
+      <h3>Creatina Pro Max</h3>
+      <p>Mejora la fuerza y el rendimiento físico en ejercicios intensos.</p>
+      <p class="precio">$31.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+    <div class="producto">
+      <img src="ene.jpg" alt="Pre Workout Energy">
+      <h3>Pre Workout Energy</h3>
+      <p>Suplemento pre-entrenamiento que aumenta la energía, concentración y resistencia.</p>
+      <p class="precio">$27.99</p>
+      <button>Agregar al carrito</button>
+    </div>
+
+  </div>
+
+  <footer id="contacto">
+    <p>© 2025 <span>FitStore</span> — Argenis Tejada</p>
+  </footer>
+
+</body>
+</html>
